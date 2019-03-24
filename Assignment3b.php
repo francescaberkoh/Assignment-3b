@@ -1,3 +1,13 @@
+<?php
+/*
+Created on Mar 7, 2019
+Created for: ICS3U
+@author: Francesca Berkoh
+Assignment 3b
+This program calculates the cost of a pizza
+*/
+?
+
 <form action="" method="POST">
 Enter the size of your pizza (Small = 1) (large=2):
 <br><br>
